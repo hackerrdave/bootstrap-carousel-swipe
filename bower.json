@@ -1,9 +1,9 @@
 {
-  "name": "bootstrap-carousel-swipe",
+  "name": "bootstrap-carousel-swipe-haven",
   "version": "0.0.7",
-  "homepage": "https://github.com/avinoamr/bootstrap-carousel-swipe",
+  "homepage": "https://github.com/hackerrdave/bootstrap-carousel-swipe.git",
   "authors": [
-    "Roi Avinoam <avinoamr@gmail.com>"
+    "Dave Kerr <davek09@gmail.com>"
   ],
   "description": "Adding swipe behavior to Bootstrap's Carousel",
   "main": "carousel-swipe.js",
